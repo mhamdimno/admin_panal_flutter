@@ -5,7 +5,7 @@ Environment get env => _env;
 class Environment {
   final String apiBaseUrl;
   final String defaultAppLanguageCode;
-
+print(',,,,,,,,,,,,,,,,,,,,,,,,,,,,,');
   Environment._init({
     required this.apiBaseUrl,
     required this.defaultAppLanguageCode,
